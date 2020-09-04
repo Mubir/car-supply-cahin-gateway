@@ -1,0 +1,38 @@
+Script started on Fri Sep  4 12:29:04 2020
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[0;33mbillahmuntasir[0m@[0;32mBillahs-MacBook-Pro[0m:[0;34m~/tony_stark/Spring/micor-services/car-supply-chain/car_service_gateway[0m$ git stattus
+git: 'stattus' is not a git command. See 'git --help'.
+
+The most similar command is
+	status
+[0;33mbillahmuntasir[0m@[0;32mBillahs-MacBook-Pro[0m:[0;34m~/tony_stark/Spring/micor-services/car-supply-chain/car_service_gateway[0m$ git status
+fatal: not a git repository (or any of the parent directories): .git
+[0;33mbillahmuntasir[0m@[0;32mBillahs-MacBook-Pro[0m:[0;34m~/tony_stark/Spring/micor-services/car-supply-chain/car_service_gateway[0m$ git init
+Initialized empty Git repository in /Users/billahmuntasir/tony_stark/Spring/micor-services/car-supply-chain/car_service_gateway/.git/
+[0;33mbillahmuntasir[0m@[0;32mBillahs-MacBook-Pro[0m:[0;34m~/tony_stark/Spring/micor-services/car-supply-chain/car_service_gateway[0m$ git c[Kadd
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+[0;33mbillahmuntasir[0m@[0;32mBillahs-MacBook-Pro[0m:[0;34m~/tony_stark/Spring/micor-services/car-supply-chain/car_service_gateway[0m$ git commit -m ""i"n"i"t"i"a"l"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31m.mvn/[m
+	[31mHELP.md[m
+	[31mmvnw[m
+	[31mmvnw.cmd[m
+	[31mpom.xml[m
+	[31msrc/[m
+	[31mtypescript[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[0;33mbillahmuntasir[0m@[0;32mBillahs-MacBook-Pro[0m:[0;34m~/tony_stark/Spring/micor-services/car-supply-chain/car_service_gateway[0m$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+[0;33mbillahmuntasir[0m@[0;32mBillahs-MacBook-Pro[0m:[0;34m~/tony_stark/Spring/micor-services/car-supply-chain/car_service_gateway[0m$ 
